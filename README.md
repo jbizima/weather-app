@@ -13,10 +13,12 @@ Welcome to the Weather App! This app provides real-time weather information for 
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-%2332a852.svg?style=for-the-badge&logo=axios&logoColor=white)
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Node.js](https://nodejs.org/): A JavaScript runtime for building server-side applications.
+- [Express](https://expressjs.com/): A web application framework for Node.js, used for building APIs and web applications.
 - [Axios](https://axios-http.com/): A promise-based HTTP client for making API requests.
 
 ## weather-app
